@@ -35,7 +35,6 @@ The project includes:
 
 The project is organized into separate source and header files.
 
-src/
 - main.c: contains the main menu
 - student.c: contains student functions
 - question.c: contains question functions
@@ -43,15 +42,12 @@ src/
 - result.c: contains result saving functions
 - log.c: contains log functions
 
-include/
+Header files:
 - student.h
 - question.h
 - test.h
 - result.h
 - log.h
-
-data/
-- students.csv
 
 ## Input and Output Files
 
